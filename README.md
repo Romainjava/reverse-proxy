@@ -52,6 +52,3 @@ Le proxy ajoutera automatiquement votre clé API à chaque requête.
 - Ne partagez jamais votre fichier `.env` contenant votre clé API.
 - Ce proxy est conçu pour un usage local ou dans un environnement de développement contrôlé.
 
-## Support
-
-Pour toute question ou probl
